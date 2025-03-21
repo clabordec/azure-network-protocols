@@ -1,4 +1,4 @@
-2<p align="center">
+![image](https://github.com/user-attachments/assets/b4900d81-e9f7-4e26-8e1e-c3746a3a213b)2<p align="center">
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
@@ -50,9 +50,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 <img src="https://github.com/user-attachments/assets/4abee16f-d5c8-452e-b1cd-fb0766c6d68d" width="550" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-<img src="https://github.com/user-attachments/assets/4abee16f-d5c8-452e-b1cd-fb0766c6d68d" width="550" alt="Disk Sanitization Steps"/>
-</p>
 <br />
 
 ### Set the username and password: `claborde-windows` as the username, and `AdminSecurePassword123!!!` as the password
@@ -97,3 +94,63 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 <img src="https://github.com/user-attachments/assets/c0304833-3484-4260-8117-cad71a8d2b03" width="550" alt="Disk Sanitization Steps" />
 </p>
+<br />
+
+### Within the Networking section, ensure that the vnet is set to `claborde-vnet`, this will allow us to communcate with the `windows-vm` Virtual Machine
+<p>
+<img src="https://github.com/user-attachments/assets/0b63e004-9b67-43ae-80b0-52c221f2ad8f" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+### Review the following VM validation, once the validation passed create the VM
+<p>
+<img src="https://github.com/user-attachments/assets/f7d53541-e1b9-4263-b614-599462a1f7cc" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/96d90c76-0190-4452-a6fa-f4992bfae97e" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+### End Results
+<p>
+<img src="https://github.com/user-attachments/assets/2a76a7f1-78cb-4e14-b989-339ff47ebde3" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+
+## Observing ICMP Traffic
+### Connect to the Windows 10 VM with RDP (Remote Desktop Connection)
+<p>
+<img src="https://github.com/user-attachments/assets/01e0a7db-ddea-4b54-978c-e24d22f9201e" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/86f4d355-b17a-4f67-a559-a45d2d7bb2b6" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/9561db0e-a525-4c3c-a1b0-f630b5d89fcc" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/bf3951e9-f5bf-4e18-95e2-43c2099cf5b8" width="550" alt="Disk Sanitization Steps" />
+</p>
+
+### Login to the VM 
+<p>
+<img src="https://github.com/user-attachments/assets/bf3951e9-f5bf-4e18-95e2-43c2099cf5b8" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/666d9289-4a9b-4255-8c6f-df500360be0c" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+### Accept the terms for the newly created VM
+<p>
+<img src="https://github.com/user-attachments/assets/3289a9aa-cdde-4914-8296-ccdc0507f6ea" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+### End Results
+<p>
+<img src="https://github.com/user-attachments/assets/688b9539-0a58-4ede-b444-247c756b845b" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
