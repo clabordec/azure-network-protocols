@@ -154,3 +154,4 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <br />
 
+### Within the VM open Wireshark and begin a packet capture
