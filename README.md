@@ -89,6 +89,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 <img src="https://github.com/user-attachments/assets/040582b9-6bc2-4a5d-bd18-09a09c8636e0" width="550" alt="Disk Sanitization Steps"/>
 </p>
+<br />
 
 ### Change the authentication type as "Password", then set the username to be `claborde-linux` and the password as `AdminSecurePassword123!!!`
 <p>
@@ -132,6 +133,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 <img src="https://github.com/user-attachments/assets/bf3951e9-f5bf-4e18-95e2-43c2099cf5b8" width="550" alt="Disk Sanitization Steps" />
 </p>
+<br />
 
 ### Login to the VM 
 <p>
