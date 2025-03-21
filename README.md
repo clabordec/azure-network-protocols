@@ -44,20 +44,56 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 <img src="https://github.com/user-attachments/assets/670e1774-2245-4c14-a5d9-732faa640870" width="550" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+<img src="https://github.com/user-attachments/assets/b91cdadf-339b-44ff-af63-64c4c4065a1a" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/4abee16f-d5c8-452e-b1cd-fb0766c6d68d" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/4abee16f-d5c8-452e-b1cd-fb0766c6d68d" width="550" alt="Disk Sanitization Steps"/>
+</p>
 <br />
 
+### Set the username and password: `claborde-windows` as the username, and `AdminSecurePassword123!!!` as the password
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://github.com/user-attachments/assets/97ca7002-ca9c-410d-9629-91c89d427702" width="550" alt="Disk Sanitization Steps" />
 </p>
 <br />
 
+### Confirm the Licensing to avoid any errors
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://github.com/user-attachments/assets/74d11869-b445-45c5-95e2-e43d1a113b25" width="550" alt="Disk Sanitization Steps" />
 </p>
 <br />
+
+### Create a new Virtual Network
+<p>
+<img src="https://github.com/user-attachments/assets/99817edb-20f8-47cc-8fc5-c333e5e45450" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+### Review the following VM validation, once the validation passed create the VM
+<p>
+<img src="https://github.com/user-attachments/assets/1b05f267-f402-48b8-8196-847a49ba6444" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<<img src="https://github.com/user-attachments/assets/8f1d7082-774f-4da7-86d9-eff284e883e4" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+### Creating the Linux (Ubuntu) VM
+<p>
+<img src="https://github.com/user-attachments/assets/670e1774-2245-4c14-a5d9-732faa640870" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/cfe66616-8ac5-4011-860f-d064a8658436" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/040582b9-6bc2-4a5d-bd18-09a09c8636e0" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Change the authentication type as Password, then set the username to be `claborde-linux` and the password as `AdminSecurePassword123!!!`
+<p>
+<img src="https://github.com/user-attachments/assets/c0304833-3484-4260-8117-cad71a8d2b03" width="550" alt="Disk Sanitization Steps" />
+</p>
