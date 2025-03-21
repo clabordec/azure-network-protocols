@@ -155,3 +155,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 ### Within the VM open Wireshark and begin a packet capture
+<p>
+<img src="https://github.com/user-attachments/assets/12091b30-e31f-4daa-a4fd-2095cec40f1c" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
