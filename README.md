@@ -75,7 +75,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://github.com/user-attachments/assets/1b05f267-f402-48b8-8196-847a49ba6444" width="550" alt="Disk Sanitization Steps" />
 </p>
 <p>
-<<img src="https://github.com/user-attachments/assets/8f1d7082-774f-4da7-86d9-eff284e883e4" width="550" alt="Disk Sanitization Steps" />
+<img src="https://github.com/user-attachments/assets/8f1d7082-774f-4da7-86d9-eff284e883e4" width="550" alt="Disk Sanitization Steps" />
 </p>
 <br />
 
@@ -90,7 +90,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://github.com/user-attachments/assets/040582b9-6bc2-4a5d-bd18-09a09c8636e0" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### Change the authentication type as Password, then set the username to be `claborde-linux` and the password as `AdminSecurePassword123!!!`
+### Change the authentication type as "Password", then set the username to be `claborde-linux` and the password as `AdminSecurePassword123!!!`
 <p>
 <img src="https://github.com/user-attachments/assets/c0304833-3484-4260-8117-cad71a8d2b03" width="550" alt="Disk Sanitization Steps" />
 </p>
