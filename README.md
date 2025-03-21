@@ -1,4 +1,4 @@
-<p align="center">
+2<p align="center">
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
@@ -33,13 +33,12 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Observe DNS Traffic
 - Observe RDP Traffic
 
-<h2>Actions and Observations</h2>
+<h1>Actions and Observations</h1>
 
+## Virtual Machine Creations
+### Create the Windows 10 Virtual Machine
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://github.com/user-attachments/assets/670e1774-2245-4c14-a5d9-732faa640870" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
