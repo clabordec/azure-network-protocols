@@ -158,4 +158,141 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 <img src="https://github.com/user-attachments/assets/12091b30-e31f-4daa-a4fd-2095cec40f1c" width="550" alt="Disk Sanitization Steps" />
 </p>
+<p>
+<img src="https://github.com/user-attachments/assets/3eb9ff00-72ad-4eba-84c8-05bdd9de6087" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+### Filter for ICMP Traffic
+### No traffic will occur because the current VM(windows-vm) is not pinging an address
+<p>
+<img src="https://github.com/user-attachments/assets/679019eb-a15b-414f-a46a-28dc01b677ee" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+### Ping the Ubuntu private IP address
+<p>
+<img src="https://github.com/user-attachments/assets/17e080c0-fede-48ac-8427-6389c1dac8e0" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/82cc1468-46c7-4b78-9344-a7569136d892" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/e20efbbc-22d7-44dd-8a61-bb184eed8f14" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+### After pinging the server, we are now able to see some ICMP traffic flow through
+<p>
+<img src="https://github.com/user-attachments/assets/32b57bf7-e8bd-4e64-85c5-de635d6c2cf7" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+
+## Configuring a Network Security Group
+### Run the following command to ping traffic non-stop
+<p>
+<img src="https://github.com/user-attachments/assets/5eea0dc7-aee8-4349-ba54-986bcc7d8178" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+### Disable incoming traffic for the Ubuntu server within Azure
+<p>
+<img src="https://github.com/user-attachments/assets/fa33c022-c1da-4485-9a23-945a9b4ae726" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/b4245058-1121-4426-86ff-13b6babbf957" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/3acfc415-6294-4c33-9413-5b1c323da3fc" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/3acfc415-6294-4c33-9413-5b1c323da3fc" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/2b04421c-a24f-449b-8db5-b48a02deef2d" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+
+### After importing the rule, we can see that the request for communication between the VMs has timed out
+<p>
+<img src="https://github.com/user-attachments/assets/7ac57998-d181-40a1-8205-d7a60d28443f" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/0549e24d-2ed2-4fcc-9770-7d6f9044ba3b" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+### Re-enable ICMP traffic to flow between the two VMs
+<p>
+<img src="https://github.com/user-attachments/assets/f7080043-995a-458d-9227-01d206f69283" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/88d66272-1101-494c-97e5-ad5e989bc9c4" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/38d047f2-a82c-4bc0-b8b4-d62dbbcb8fc0" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+
+## Observe SSH Traffic
+### Start a new packet capture within Wireshark and filter for SSH traffic
+<p>
+<img src="https://github.com/user-attachments/assets/356e5a81-093c-4171-b32d-77ccb8d739a3" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+
+### To view traffic remote into the Ubuntu server with the SSH protocal
+<p>
+<img src="https://github.com/user-attachments/assets/e2837d6a-9b18-4cb7-b631-bb217950e0c7" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/a5cfe245-334b-49b6-a4a1-f0b7052dbd2c" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+
+## Observe DHCP Traffic
+### Start a new packet capture within Wireshark and filter for DHCP traffic
+<p>
+<img src="https://github.com/user-attachments/assets/d2cc2e84-e9b6-47b5-ae9b-6547fcc78218" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+### To view traffic, assign a new IP address within the command line
+<p>
+<img src="https://github.com/user-attachments/assets/e423df97-bc59-4052-b7a1-f193a9e428fe" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/bb79fdf2-f1b0-41a7-ada7-26ac419adc85" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+
+## Observe DNS Traffic
+### Start a new packet capture within Wireshark and filter for DNS traffic
+<p>
+<img src="https://github.com/user-attachments/assets/78685079-05c5-46c8-ac61-e055569eacbb" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+### To view traffic, run the `nslookup` command to get the DNS settings for a certain domain name
+<p>
+<img src="https://github.com/user-attachments/assets/9c381c48-dc0a-4c5e-a00f-4cc3cd6e9ec0" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/0abbb730-ef88-4bcc-8b73-efd337f1ad99" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+
+## Observe RDP Traffic
+### Start a new packet capture within Wireshark and filter for RDP traffic
+<p>
+<img src="https://github.com/user-attachments/assets/b16b7029-8e0e-4f0d-b318-ec5265afcff4" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>Traffic for the following protocal is non-stop due to the live stream from one computer to another.</p>
 <br />
