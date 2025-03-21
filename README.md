@@ -33,9 +33,14 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Observe DNS Traffic
 - Observe RDP Traffic
 
+<br />
+
 <h1>Actions and Observations</h1>
 
 ## Virtual Machine Creations
+
+<br />
+
 ### Create the Windows 10 Virtual Machine
 <p>
 <img src="https://github.com/user-attachments/assets/670e1774-2245-4c14-a5d9-732faa640870" width="550" alt="Disk Sanitization Steps"/>
