@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b4900d81-e9f7-4e26-8e1e-c3746a3a213b)2<p align="center">
+<p align="center">
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
