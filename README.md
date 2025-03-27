@@ -297,8 +297,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://github.com/user-attachments/assets/b16b7029-8e0e-4f0d-b318-ec5265afcff4" width="550" alt="Disk Sanitization Steps" />
 </p>
 <p>Traffic for the following protocal is non-stop due to the live stream from one computer to another.</p>
-<br />
 
 ---
+
+<br />
 
 # End of Project
