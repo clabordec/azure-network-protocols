@@ -6,6 +6,9 @@
 In this project, I will observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
+<br>
+
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -14,10 +17,18 @@ In this project, I will observe various network traffic to and from Azure Virtua
 - Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
 - Wireshark (Protocol Analyzer)
 
+
+<br>
+
+
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
 - Ubuntu Server 22.04
+
+
+<br>
+
 
 <h2>High-Level Steps</h2>
 
