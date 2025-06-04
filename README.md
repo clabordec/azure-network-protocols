@@ -42,7 +42,7 @@ In this project, I will observe various network traffic to and from Azure Virtua
 
 <br />
 
-<h2>Actions and Observations</h2>
+<h1>Actions and Observations</h1>
 
 ## Virtual Machine Creations
 ### Create the Windows 10 Virtual Machine
